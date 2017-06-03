@@ -1,0 +1,12 @@
+Alasan membuat tagging  interface
+
+Memecahkan bagian yang rumit dan spesifik. 
+Dengan menggunakan class atau interface oleh vendor
+maka dalam pembuatan perangkat lunak menjadi lebih cepat.
+Keterbatasan inheritance pada Java. 
+Interface menjawab kebutuhan untuk melakukan multiple inheritance
+
+cocok jika beberapa properti dari jenis dapat Serializable 
+sebagai tipe itu sendiri - Serializable datang ke dalam ide
+Ini digunakan untuk menyebutkan beberapa properti kelas (seperti Serializable menunjukkan, 
+bahwa kelas diperbolehkan untuk serialize). 
